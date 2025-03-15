@@ -1,5 +1,3 @@
-# SocialMediaAndEmotionalWellBeing
-
 # Social Media Usage and Emotional Well-Being: Analysis and Predictions
 
 ## Overview
